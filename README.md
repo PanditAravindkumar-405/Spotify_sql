@@ -1,3 +1,4 @@
+# Spotify SQL Project
 ![spotify_logo](https://github.com/user-attachments/assets/c0d474d8-6950-4a79-8656-c0437d0ebbc5)
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
@@ -35,7 +36,7 @@ CREATE TABLE spotify (
 ## Technology Used
 - **Database**: PostgreSQL
 - **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
-- **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
+- **Tools**: pgAdmin 4, PostgreSQL
 
   
 ## Project Steps
