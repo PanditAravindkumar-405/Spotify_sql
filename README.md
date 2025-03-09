@@ -33,11 +33,6 @@ CREATE TABLE spotify (
     most_played_on VARCHAR(50)
 );
 ```
-## Technology Used
-- **Database**: PostgreSQL
-- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
-- **Tools**: pgAdmin 4, PostgreSQL
-
   
 ## Project Steps
 
@@ -199,3 +194,8 @@ SELECT
 FROM cte
 ORDER BY 2 DESC
 ```
+
+## Technology Used
+- **Database**: PostgreSQL
+- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
+- **Tools**: pgAdmin 4, PostgreSQL
